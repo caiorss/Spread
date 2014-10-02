@@ -1,0 +1,7 @@
+C:\MZ\CloudIn\CloudRF\QuantifyLib\obj\Debug\Spread.Quantify.csprojResolveAssemblyReference.cache
+C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Spread.Quantify.dll
+C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Spread.Quantify.pdb
+C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Ninject.dll
+C:\MZ\CloudIn\CloudRF\QuantifyLib\bin\Debug\Ninject.xml
+C:\MZ\CloudIn\CloudRF\QuantifyLib\obj\Debug\Spread.Quantify.dll
+C:\MZ\CloudIn\CloudRF\QuantifyLib\obj\Debug\Spread.Quantify.pdb
